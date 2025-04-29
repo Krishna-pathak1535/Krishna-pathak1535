@@ -6,7 +6,7 @@
 
 <h3>who loves programming</h3>
 
-- 🔭 I'm currently working on **Web Based Projects and continously enhancing my potential**
+- 🔭 I'm currently working on **Web Based Projects and continuously enhancing my potential**
 
 - 🌱 I'm currently learning **Full Stack Development**
 
@@ -104,7 +104,7 @@
 <img align="right" width="88" src="https://i.ibb.co/jvSV4NX1/portfolio-main-page.png" alt="portfolio-main-page" border="0"></>" />
 
 - [My Personal Portfolio](https://krishnanand-cyber.netlify.app/)    &nbsp;&nbsp; &nbsp; &nbsp;     📌 2025
-  - Position: Mern Developer
+  - Position: MERN Developer
   - Responsibilities: Various tasks
   - Techstack: MERN
 
@@ -116,12 +116,11 @@
 
 
 ## 👤 Profile Views
-
-counting of visitors to this page in this section started from April 29, 2025
+The counting of visitors to this page in this section started from April 29, 2025
 
 <br><br>
 
-![](https://count.getloli.com/get/@bhza.github.readme)
+![](https://count.getloli.com/get/@Krishna-pathak1535.github.readme)
 
 <br><br>
 <tr><td>
