@@ -112,7 +112,18 @@
 
 
 </td></tr>
+<br>
 
+
+## 👤 Profile Views
+
+counting of visitors to this page in this section started from April 29, 2025
+
+<br><br>
+
+![](https://count.getloli.com/get/@bhza.github.readme)
+
+<br><br>
 <tr><td>
 
 </table>
