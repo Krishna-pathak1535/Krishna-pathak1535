@@ -15,6 +15,7 @@
 - 💬 Ask me about **react, next.js, node.js, Front-end, Back-end**
 
 - 📫 How to reach me **krishna.pathak2003@gmail.com**
+**https://www.linkedin.com/in/krishnanand-pathak/**
 
 <h3>Languages and Tools:</h3>
 
@@ -92,9 +93,14 @@
 
 <img align="right" width="88" src="https://i.ibb.co/F4L9YVRK/profile.jpg" />
 
-<p>&emsp;&emsp;Hi, I am Krishna Nand Pathak . I love programming, gaming, reading, and traveling.</p>
-<p>&emsp;&emsp;I am passionate about computer science and IT, aiming to become an excellent developer.</p>
-<p>&emsp;&emsp;We are making the world a better place by constructing elegant hierarchies for maximum code reuse and extensibility.</p>
+<p>&emsp;&emsp; Hi, I am Krishna Nand Pathak .
+👀 I’m interested in Full Stack Development, data science, Blockchain, and AI.
+I love programming, gaming, reading, and traveling.</p>
+<p>&emsp;&emsp; I am passionate about computer science and IT, aiming to become an excellent developer.
+💞️ I’m not the most intelligent or smartest person, but I can confidently say I’m very curious, hardworking, and a bit of a workaholic when it comes to this field.</p>
+<p>&emsp;&emsp; We are making the world a better place by constructing elegant hierarchies for maximum code reuse and extensibility.
+🌱 I’m always eager to work with like-minded people in Full Stack Development, data science, Blockchain, and AI to learn, grow, and build impactful solutions.</p>
+
 </td></tr>
 
 <tr><td>
