@@ -101,7 +101,7 @@ The counting of visitors to this page in this section started from April 29, 202
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://i.ibb.co/F4L9YVRK/profile.jpg" />
+<img align="right" width="88" src=["https://i.ibb.co/F4L9YVRK/profile.jpg"](https://i.ibb.co/F4L9YVRK/profile.jpg)/>
 
 <p>&emsp;&emsp; Hi 👋, I am Krishna Nand Pathak . </p>
 <p>&emsp;&emsp; 👀 I’m interested in Full Stack Development, data science, Blockchain, and AI.</p>
