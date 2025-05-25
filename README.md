@@ -117,7 +117,7 @@ The counting of visitors to this page in this section started from April 29, 202
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://i.ibb.co/jvSV4NX1/portfolio-main-page.png" alt="portfolio-main-page" border="0"></>" />
+<img align="right" width="88" src="https://i.ibb.co/jvSV4NX1/portfolio-main-page.png" alt="portfolio-main-page" border="0" />
 
 - [My Personal Portfolio](https://krishnanand-cyber.netlify.app/)    &nbsp;&nbsp; &nbsp; &nbsp;     📌 2025
   - Position: MERN Developer
